@@ -44,6 +44,8 @@ Dokan is the fastest way to start eCommerce and earn through commissions with pr
 
 🎉 “Best Multivendor Wordpress Plugin Available”
 
+🎉 “Dokan is a product with a huge potential. And has evolved during the last years. We have implemented a stable marketplace environment serving hundreds of satisfied customers using this tool”
+
 🎉 “I have been using Dokan for 3 years. Overall experiences with the software are awesome!”
 
 🎉 “Best investment we made last year”
@@ -56,9 +58,9 @@ Dokan is the fastest way to start eCommerce and earn through commissions with pr
 
 👨 [“This is why we are proud to be using Dokan as with it we are able to give you all the tools to help manage and run a successful business.”](https://wedevs.com/143965/michael-delaneys-story-successful-marketplace/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) – Michael Delaney, Owner of [ShoppeRegion](https://shopperregion.com/)
 
-💁 [“It was really important to me that sellers did not need to ever see the WordPress backend. Dokan offered this solution.”](https://wedevs.com/138474/dokan-success-stories-mash-ie/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) - Simon & Rozz Lewis, owner of [Mash.ie](https://mash.ie/)
+💁 [“Without Dokan I would not have a Marketplace option and I would be forced to hold stock. Dokan offers me the opportunity to have a drop shipping Marketing and offer Businesses that chance to scale and sell alongside like-minded businesses. It also offers me the opportunity to sell stock without packing and posting on my own.”](https://wedevs.com/blog/271341/dokan-success-story-of-leisa-papa-little-kids-business/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) - Leisa Papa, Founder of [Little Kids Business](https://littlekidsbusiness.com.au)
 
-👨 [”Dokan allows our coral farmers to setup their own vendor store and publish their corals to a wide audience.”](https://wedevs.com/135434/communitycorals-dokan-success-story/) -  Dominique Deutzmann, Founder of [CommunityCorals](https://www.communitycorals.de/)
+👨 [“Dokan is a solution for us to provide a fully automized shop-in-shop-system with a very helpful commission-calculation and reports to do all financial details with the vendors”](https://wedevs.com/blog/173305/a-success-story-of-a-healthcare-marketplace/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) - Bernd Payer, Founder [JOSHi](https://www.joshi.at)
 
 💁 “The functionality delivers everything that you need to grow your marketplace.” -  [Hawk and Peddle](http://hawkandpeddle.co.uk/)
 
@@ -107,6 +109,17 @@ In the [Pro Version](https://wedevs.com/dokan/pricing/?utm_campaign=dokan-wordpr
 
 ➡️ [Learn More](https://wedevs.com/dokan/pricing/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) ⬅️
 
+### DYNAMIC SETTINGS FOR SHIPPING CONDITIONS ###
+
+Admin can extend flexibility to individual vendors to have control over their shipping based on various conditions including setting rates, tracking shipments with available integrations, and much more. 
+
+➡️ [Vendor Table rate shipping](https://wedevs.com/dokan/modules/table-rate-shipping) (Pro) - Multi-vendor support on setting shipping rates based on location, price, weight, shipping class, or item count of the shipment.
+
+➡️ [Delivery Time](https://wedevs.com/dokan/modules/delivery-time) (Pro) -  Let customers choose the time and date they want their product delivered.
+
+➡️ [ShipStation](https://wedevs.com/dokan/modules/shipstation/) (Pro) - Enable vendors to import, manage, and ship orders hassle-free with the leading shipping application for online marketplaces. 
+
+
 ### PLAYS NICE WITH OTHER PLUGINS ###
 
 Dokan is compatible with more than 60+ plugins so that you don’t have to worry about anything when it comes to compatibility.
@@ -115,7 +128,7 @@ From Shipping plugins, Payment plugins to Wallets you have the peace of mind whe
 
 👉 [CLICK HERE TO LEARN MORE](https://wedevs.com/dokan/compatible-plugins/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org)👈
 
-### More Freedom To Customize The Store ###
+### MORE FREEDOM TO CUSTOMIZE THE STORE ###
 
 Now never get bored with the old fashioned appearance of your store. Have full control over your store customization with the Elementor Module for Dokan. Simply get the customizer to be able to customize the global outlook of the vendor store pages. Drag & drop more than 12 incredible store widgets made exclusively for Dokan and place it anywhere you want it. Save as many customized templates as you want to use it whenever you need it
 
@@ -198,6 +211,9 @@ Now never get bored with the old fashioned appearance of your store. Have full c
 
 Dokan comes with a number of extended features that were built around idea that someone with the potential should not be restricted to achieve his/her dream because of any shortcomings. Like,
 
+* [Product Subscription](https://wedevs.com/dokan/modules/product-subscription/) (Pro) - Let your vendors sell subscription-based products and services easily from the frontend of your website.
+* [Rank Math SEO](https://wedevs.com/dokan/modules/rank-math-seo) (Pro) - Let your vendors manage their product SEO with an easy-to-navigate frontend dashboard and drive traffic to your eCommerce site.
+* [Dokan Paypal Marketplace](https://wedevs.com/dokan/modules/dokan-paypal-marketplace) (Pro) - Make your marketplace payment system smoother than ever with the advanced PayPal integration with all PayPal Commerce Platform (PCP) features.
 * [PDF Invoice](https://wedevs.com/dokan/modules/pdf-invoice/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org): Create automated multi seller invoices with templates & download in PDF.
 * [Product Duplicator](https://wedevs.com/dokan/modules/product-duplicator/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org): Enable vendors to copy a product that another seller is already selling.
 * [Ajax Live Search](https://wedevs.com/dokan/modules/ajax-live-search/?utm_campaign=dokan-wordpress-org-visitor&utm_medium=learn_more_about_dokan&utm_source=WordPress.org) (Pro): Turn your regular search bar into an instant advanced product searching tool.
